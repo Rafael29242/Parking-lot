@@ -1,0 +1,13 @@
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\bin\Debug\netcoreapp3.1\Ch7_Parking lot.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\bin\Debug\netcoreapp3.1\Ch7_Parking lot.deps.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\bin\Debug\netcoreapp3.1\Ch7_Parking lot.runtimeconfig.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\bin\Debug\netcoreapp3.1\Ch7_Parking lot.runtimeconfig.dev.json
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\bin\Debug\netcoreapp3.1\Ch7_Parking lot.dll
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\bin\Debug\netcoreapp3.1\Ch7_Parking lot.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.dll
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA220\Ch7_Parking lot\Ch7_Parking lot\obj\Debug\netcoreapp3.1\Ch7_Parking lot.genruntimeconfig.cache
